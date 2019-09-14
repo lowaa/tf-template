@@ -1,0 +1,8 @@
+*VirtualEnv*
+*.pyc
+**.cache
+*.log
+.idea
+.DS_Store
+.hg
+test_results

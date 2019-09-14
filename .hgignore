@@ -1,0 +1,11 @@
+syntax:glob
+
+VirtualEnv
+*.pyc
+**.cache
+*.log
+.idea
+.DS_Store
+.git
+.gitignore
+convert_to_hg.sh
